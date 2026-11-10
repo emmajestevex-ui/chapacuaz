@@ -1,0 +1,14 @@
+# Local credentials and developer files
+.env
+.env.*
+!.env.example
+DerivedData/
+build/
+Payload/
+*.ipa
+*.xcarchive
+*.log
+
+# Local admin artifacts
+admin/.cache/
+admin/__pycache__/
