@@ -1,6 +1,6 @@
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 
-const SUPABASE_URL = "https://cwsrcdfexolhwwvjqitv.supabase.co";
+const SUPABASE_URL = "https://cwsrcdfexolhwvwjqitv.supabase.co";
 const SUPABASE_KEY = "sb_publishable_TJ_IFtioRpdFd3CW_aGVvA_7_dqZZ7t";
 const BUCKET = "chapacuaz-content";
 const SCRIPT_VERSION = "20261110-chapacuaz-ios";

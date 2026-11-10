@@ -417,7 +417,7 @@ private struct ChapacuazLicenseView: View {
 }
 
 private enum SupabaseLicenseConfig {
-    static let projectURL = URL(string: "https://cwsrcdfexolhwwvjqitv.supabase.co")!
+    static let projectURL = URL(string: "https://cwsrcdfexolhwvwjqitv.supabase.co")!
     static let publishableKey = "sb_publishable_TJ_IFtioRpdFd3CW_aGVvA_7_dqZZ7t"
 }
 

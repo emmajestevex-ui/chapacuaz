@@ -56,7 +56,7 @@ Los patches internos se guardan en Application Support, no en Documents. La UI n
 La app ya esta configurada con:
 
 ```text
-Project URL: https://cwsrcdfexolhwwvjqitv.supabase.co
+Project URL: https://cwsrcdfexolhwvwjqitv.supabase.co
 Publishable key: sb_publishable_TJ_IFtioRpdFd3CW_aGVvA_7_dqZZ7t
 Funciones cliente:
 - public.activate_license(p_license_key text, p_device_id text)
